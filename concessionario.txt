@@ -1,4 +1,4 @@
-ID: primary key UNIQUE
+TARGA: primary key UNIQUE
 Marca: 	VARCHAR(20) NOTNLL
 Modello: VARCHAR(30) NOTNULL
 Data di immatricolazione: DATE NULL
