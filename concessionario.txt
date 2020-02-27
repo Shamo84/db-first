@@ -1,0 +1,9 @@
+ID: primary key UNIQUE
+Marca: 	VARCHAR(20) NOTNLL
+Modello: VARCHAR(30) NOTNULL
+Data di immatricolazione: DATE NULL
+Cilindrata: SMALL NULL
+Colore: VARCHAR(20) NULL
+Prezzo: SMALL NOTNULL
+Alimentazione: VARCHAR(10) NOTNULL
+Accessori: VARCHAR(255) NULL
